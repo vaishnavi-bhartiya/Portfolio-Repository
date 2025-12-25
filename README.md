@@ -54,7 +54,7 @@ The goal of this project was to transform raw employee data into meaningful insi
 ---
 
 ## 📂 Files in this Branch
-- `EmployeeAnalysis.pbix` → Power BI project file with all solutions  
+- `Employee Data Analysis.pbix` → Power BI project file with all solutions  
 - `README.md` → Documentation of tasks and approach  
 
 ---
