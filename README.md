@@ -1,5 +1,7 @@
 # Hi, I'm Vaishnavi 👋
 
+*Data Analyst | SQL • Python • Power BI*
+
 Aspiring **Analyst** with strong skills in:
 - SQL (joins, CTEs, window functions, schema interpretation)
 - Python (data cleaning, anomaly detection, workflow automation)
@@ -11,9 +13,10 @@ Aspiring **Analyst** with strong skills in:
 - Designing Power BI dashboards with sample datasets
 
 ## 📂 Featured Projects (Coming Soon)
-- **SQL Practice Repo** – Complex queries and interview-style problems
-- **Python Analytics Repo** – Data cleaning and visualization scripts
-- **Power BI Dashboards Repo** – https://github.com/vaishnavi-bhartiya/Power-BI
+- [SQL Practice Repo](https://github.com/vaishnavi-bhartiya/SQL-Practice) – Complex queries and interview-style problems *(coming soon)*
+- [Python Analytics Repo](https://github.com/vaishnavi-bhartiya/Python-Analytics) – Data cleaning and visualization scripts *(coming soon)*
+- [Power BI Dashboards Repo](https://github.com/vaishnavi-bhartiya/Power-BI) – Interactive dashboards and business insights
+
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/vaishnavi-bhartiya](https://linkedin.com/in/vaishnavi-bhartiya)
