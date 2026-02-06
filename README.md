@@ -12,7 +12,7 @@ Aspiring **Analyst** with strong skills in:
 - Creating Python scripts for data analysis
 - Designing Power BI dashboards with sample datasets
 
-## 📂 Featured Projects (Coming Soon)
+## 📂 Featured Projects
 - [SQL Practice Repo](https://github.com/vaishnavi-bhartiya/SQL-Practice) – Complex queries and interview-style problems *(coming soon)*
 - [Python Analytics Repo](https://github.com/vaishnavi-bhartiya/Python-Analytics) – Data cleaning and visualization scripts *(coming soon)*
 - [Power BI Dashboards Repo](https://github.com/vaishnavi-bhartiya/Power-BI) – Interactive dashboards and business insights
