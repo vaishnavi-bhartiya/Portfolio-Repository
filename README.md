@@ -13,7 +13,7 @@ Aspiring **Analyst** with strong skills in:
 ## 📂 Featured Projects (Coming Soon)
 - **SQL Practice Repo** – Complex queries and interview-style problems
 - **Python Analytics Repo** – Data cleaning and visualization scripts
-- **Power BI Dashboards Repo** – Interactive business reports
+- **Power BI Dashboards Repo** – https://github.com/vaishnavi-bhartiya/Power-BI
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/vaishnavi-bhartiya](https://linkedin.com/in/vaishnavi-bhartiya)
