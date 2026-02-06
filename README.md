@@ -16,7 +16,7 @@ Aspiring **Analyst** with strong skills in:
 - [SQL Practice Repo](https://github.com/vaishnavi-bhartiya/SQL-Practice) – Complex queries and interview-style problems *(coming soon)*
 - [Python Analytics Repo](https://github.com/vaishnavi-bhartiya/Python-Analytics) – Data cleaning and visualization scripts *(coming soon)*
 - [Power BI Dashboards Repo](https://github.com/vaishnavi-bhartiya/Power-BI) – Interactive dashboards and business insights
-- [Python Fast API APP] (https://github.com/vaishnavi-bhartiya/address-book-API) - A minimal API built with **FastAPI** to demonstrate Python3 skills. It allows users to **create, update, delete, and query addresses** stored in an SQLite database.
+- [Python Fast API APP](https://github.com/vaishnavi-bhartiya/address-book-API) - A minimal API built with **FastAPI** to demonstrate Python3 skills. It allows users to                                                                                     **create, update, delete, and query addresses** stored in an SQLite database.
 
 
 ## 📫 Connect With Me
